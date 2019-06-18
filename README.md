@@ -9,8 +9,8 @@ I will be using these courses and books to learn more about Python programming o
   b. Milestone Project 2 - to be updated  
   c. Final Capstone Project - to be updated  
   
-2-1. Udemy - Automate the Boring Stuff with Python Programming (Progress: 0%)  
-2-2. Book - Automate the Boring Stuff with Python  
+2. Udemy - Automate the Boring Stuff with Python Programming (Progress: 0%)  
+  a. Book - Automate the Boring Stuff with Python  
 
 
 Ultimately, I want to be a good enough Python programmer to comfortably write programs, collaborate with others, and make useful libraries other will want to use. One thing I'm really interested in doing is making Python version of actuar R pkg (https://github.com/cran/actuar) and other actuarial libraries like chainladder.
