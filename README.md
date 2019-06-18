@@ -13,4 +13,4 @@ I will be using these courses and books to learn more about Python programming o
   a. Book - Automate the Boring Stuff with Python  
 
 
-Ultimately, I want to be a good enough Python programmer to comfortably write programs, collaborate with others, and make useful libraries other will want to use. One thing I'm really interested in doing is making Python version of actuar R pkg (https://github.com/cran/actuar) and other actuarial libraries like chainladder.
+Ultimately, I want to be good enough at Python programming to comfortably write programs, collaborate with others, and make useful libraries other will want to use. One thing I'm really interested in doing is making Python version of actuar R pkg (https://github.com/cran/actuar) and other actuarial libraries like chainladder.
