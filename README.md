@@ -4,10 +4,10 @@ This repo is for general (non-data science) Python programming projects and guid
 
 I will be using these courses and books to learn more about Python programming outside DS space:
 
-1. Udemy - Complete Python Bootcamp: Go from zero to hero in Python 3 (Progress: 100%)
-  a. Milestone Project 1 - to be updated
-  b. Milestone Project 2 - to be updated
-  c. Final Capstone Project - to be updated
+1. Udemy - Complete Python Bootcamp: Go from zero to hero in Python 3 (Progress: 100%)  
+  a. Milestone Project 1 - to be updated  
+  b. Milestone Project 2 - to be updated  
+  c. Final Capstone Project - to be updated  
   
 2-1. Udemy - Automate the Boring Stuff with Python Programming (Progress: 0%)
 2-2. Book - Automate the Boring Stuff with Python
