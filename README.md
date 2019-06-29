@@ -4,13 +4,12 @@ This repo is for general (non-data science) Python programming projects and guid
 
 I will be using these courses and books to learn more about Python programming outside DS space:
 
-1. Udemy - Complete Python Bootcamp: Go from zero to hero in Python 3 (Progress: 100%)  
-  a. Milestone Project 1 - to be updated  
-  b. Milestone Project 2 - to be updated  
-  c. Final Capstone Project - to be updated  
+##### 1. Udemy - Complete Python Bootcamp: Go from zero to hero in Python 3 (Progress: 100%)  
+- Milestone Project 1 - Tic Tac Toe game (Not uploaded)
+- Milestone Project 2 - to be updated  
+- Final Capstone Project - to be updated  
   
-2. Udemy - Automate the Boring Stuff with Python Programming (Progress: 0%)  
-  a. Book - Automate the Boring Stuff with Python  
+##### 2. Udemy - Automate the Boring Stuff with Python Programming + Book (Progress: 0%)  
 
 
-Ultimately, I want to be good enough at Python programming to comfortably write programs, collaborate with others, and make useful libraries other will want to use. One thing I'm really interested in doing is making Python version of actuar R pkg (https://github.com/cran/actuar) and other actuarial libraries like chainladder.
+Ultimately, I want to be good enough at Python programming to comfortably write programs, collaborate with others, and make useful libraries other will want to use. One thing I'm really interested in doing is making Python version of actuar R pkg (https://github.com/cran/actuar) and contributing to other actuarial libraries like [chainladder.](https://github.com/jbogaardt/chainladder-python)
